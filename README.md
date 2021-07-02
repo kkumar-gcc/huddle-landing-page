@@ -1,16 +1,16 @@
 # Frontend Mentor - Huddle landing page with single introductory section solution
 
-This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
+- [Useful resources](#useful-resources)
 - [Author](#author)
 
 ### The challenge
@@ -26,6 +26,7 @@ Users should be able to:
 ![](design/desktop-design.png)
 ![](design/desktop-preview.jpg)
 ![](design/mobile-design.png)
+
 ### Links
 
 - Solution URL: [My solution](https://www.frontendmentor.io/solutions/landing-page-using-css-and-html-9i3H4LnD2)
@@ -48,15 +49,17 @@ To see how you can add code snippets, see below:
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
+
 ```css
 .proud-of-this-css {
   color: papayawhip;
 }
 ```
+
 ```js
 const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+  console.log("🎉");
+};
 ```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
@@ -69,7 +72,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - [Useful Resourse 1](https://iconsvg.xyz/) - This helped me for svg icons. I really liked this pattern and will use it going forward.
 - [Useful Resourse 2](https://www.getbootstrap.com) - Their grid layout is good helped me to make page responsive easly. You should go through it .it will helpfull for you.
+
 ## Author
 
-- Frontend Mentor - [Visit My Profile on Frontend Mentor](https://www.frontendmentor.io/profile/kkumar-gcc)
-
+- Frontend Mentor - [Visit My Profile o Frontend Mentor](https://www.frontendmentor.io/profile/kkumar-gcc)
