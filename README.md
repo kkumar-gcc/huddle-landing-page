@@ -71,5 +71,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [Useful Resourse 2](https://www.getbootstrap.com) - Their grid layout is good helped me to make page responsive easly. You should go through it .it will helpfull for you.
 ## Author
 
-- Frontend Mentor - [Visit My Profile o Frontend Mentor](https://www.frontendmentor.io/profile/kkumar-gcc)
+- Frontend Mentor - [Visit My Profile on Frontend Mentor](https://www.frontendmentor.io/profile/kkumar-gcc)
 
