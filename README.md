@@ -13,8 +13,6 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ### The challenge
 
 Users should be able to:
@@ -30,8 +28,8 @@ Users should be able to:
 ![](design/mobile-design.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/landing-page-using-css-and-html-9i3H4LnD2)
+- Live Site URL:[Live Site](https://kkumar-gcc.github.io/huddle-landing-page)
 
 ### Built with
 
@@ -39,7 +37,7 @@ Users should be able to:
 - CSS custom properties
 - CSS Grid
 - Mobile-first workflow
-- [Styled Components](https://bootstrap.com/) - For styles
+- [Styled Components](https://getbootstrap.com/) - For styles
 
 ### What I learned
 
@@ -69,8 +67,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- (https://iconsvg.xyz/) - This helped me for svg icons. I really liked this pattern and will use it going forward.
-- (https://www.getbootstrap.com) - Their grid layout is good helped me to make page responsive easly. You should go through it .it will helpfull for you.
+- [Useful Resourse 1](https://iconsvg.xyz/) - This helped me for svg icons. I really liked this pattern and will use it going forward.
+- [Useful Resourse 2](https://www.getbootstrap.com) - Their grid layout is good helped me to make page responsive easly. You should go through it .it will helpfull for you.
 ## Author
 
-- Frontend Mentor - https://www.frontendmentor.io/profile/kkumar-gcc
+- Frontend Mentor - [Visit My Profile o Frontend Mentor](https://www.frontendmentor.io/profile/kkumar-gcc)
+
